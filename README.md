@@ -1,6 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQHwhS9YhdibdQ/profile-displayphoto-crop_800_800/B4DZ_YmCF2I4AI-/0/1786045277373?e=1788393600&v=beta&t=PlW4qAiOZL1qLkTFVnBEuQMkFV1yuSeOOj9veVsgb-M)
-
-
 <h1 align="center">Hi 👋, I'm Muhittin Uğurcan Eren</h1>
 <h3 align="center">Sales & Customer Relations Specialist</h3>
 
